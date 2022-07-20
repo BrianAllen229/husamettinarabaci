@@ -24,5 +24,11 @@ Here are some ideas to get you started:
   - 📌 MySQL , MsSQL , PsSQL , MongoDB , Elastic..
   - 📌 Design Patterns , CI/CD
   - 📌 IOT , Lte , 4G , Wireless , BLE , RF , Hardware Design , LoRA , Stm
+
+- ⚡ Organizations:
+  - 📌 https://github.com/HsmTeknoloji
+  - 📌 https://github.com/Ubn-Jr
+  - 📌 https://github.com/Movsec
+  - 📌 https://github.com/AfatekDevelopers
   
 - 💬 if there's anything you need don't hesitate to ask
