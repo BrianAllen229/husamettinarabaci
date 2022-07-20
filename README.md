@@ -32,3 +32,12 @@ Here are some ideas to get you started:
   - 📌 https://github.com/AfatekDevelopers
   
 - 💬 if there's anything you need don't hesitate to ask
+
+<!-- <div align="center"> -->
+### Github stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=husamettinarabaci&show_icons=true&theme=default&hide_border=false&locale=en)
+
+---
+
+![Counter](https://komarev.com/ghpvc/?username=husamettinarabaci&style=flat-square&label=Profile%20Views)
