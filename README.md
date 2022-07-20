@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on <b>Golang</b>
+- 📫 How to reach me: harabaci88@gmail.com
+- 👨‍💻 I am working on:
+  - 📌 Golang , gRPC , Kubernetes , Microservices , Docker , Kafka , Redis , AWS
+  - 📌 C# , Asp.NET , Java , C/C++ , Python , Ruby , Unity
+  - 📌 JS , Vue.Js , React.Js , Angular.Js
+  - 📌 MySQL , MsSQL , PsSQL , MongoDB , Elastic..
+  - 📌 Design Patterns , CI/CD
+  - 📌 IOT , Lte , 4G , Wireless , BLE , RF , Hardware Design , LoRA , Stm
+  
+- 💬 Ask me about everything
