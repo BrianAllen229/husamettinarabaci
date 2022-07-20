@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on <b>Golang</b> all-day.
+- 🔭 I’m currently working on Golang , Golang and <b>Golang</b> all-day.
 - 📫 How to reach me: harabaci88@gmail.com
 - 👨‍💻 I am working on:
   - 📌 Golang , gRPC , Kubernetes , Microservices , Docker , Kafka , Redis , AWS
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   - 📌 Design Patterns , CI/CD
   - 📌 IOT , Lte , 4G , Wireless , BLE , RF , Hardware Design , LoRA , Stm
   
-- 💬 Ask me about everything
+- 💬 if there's anything you need don't hesitate to ask
