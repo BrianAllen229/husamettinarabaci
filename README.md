@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on <b>Golang</b>
+- 🔭 I’m currently working on <b>Golang</b> all-day.
 - 📫 How to reach me: harabaci88@gmail.com
 - 👨‍💻 I am working on:
   - 📌 Golang , gRPC , Kubernetes , Microservices , Docker , Kafka , Redis , AWS
