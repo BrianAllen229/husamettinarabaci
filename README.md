@@ -1,19 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**husamettinarabaci/husamettinarabaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Counter](https://komarev.com/ghpvc/?username=husamettinarabaci&style=flat-square&label=Profile%20Views)
 
 - 🔭 I’m currently working on Golang , Golang and <b>Golang</b> all-day.
 - 📫 How to reach me: harabaci88@gmail.com
@@ -39,5 +28,3 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=husamettinarabaci&show_icons=true&theme=default&hide_border=false&locale=en)
 
 ---
-
-![Counter](https://komarev.com/ghpvc/?username=husamettinarabaci&style=flat-square&label=Profile%20Views)
