@@ -8,9 +8,9 @@
 - 📫 How to reach me: harabaci88@gmail.com
 - 👨‍💻 I am working on:
   - 📌 Golang , gRPC , Kubernetes , Microservices , Docker , Kafka , Redis , AWS
-  - 📌 C# , Asp.NET , Java , C/C++ , Python , Ruby , Unity
+  - 📌 C# , Asp.NET , Java , C/C++ , Python , Unity
   - 📌 JS , Vue.Js , React.Js , Angular.Js
-  - 📌 MySQL , MsSQL , PsSQL , MongoDB , Elastic..
+  - 📌 MySQL , MsSQL , PsSQL , MongoDB..
   - 📌 Design Patterns , CI/CD
   - 📌 IOT , Lte , 4G , Wireless , BLE , RF , Hardware Design , LoRA , Stm
 
