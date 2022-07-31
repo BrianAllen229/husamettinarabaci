@@ -30,5 +30,8 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=husamettinarabaci&show_icons=true&theme=default&hide_border=false&locale=en)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husamettinarabaci&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=husamettinarabaci&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husamettinarabaci&theme=github)
 
 ---
