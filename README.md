@@ -16,6 +16,8 @@
   - 📌 MySQL , MsSQL , PsSQL , MongoDB..
   - 📌 Design Patterns , CI/CD
   - 📌 IOT , Lte , 4G , Wireless , BLE , RF , Hardware Design , LoRA , Stm
+  
+- ⚡ Stack Share : https://stackshare.io/harabaci88
 
 - ⚡ Organizations:
   - 📌 https://github.com/HsmTeknoloji
