@@ -34,6 +34,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=husamettinarabaci&show_icons=true&theme=default&hide_border=false&locale=en)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husamettinarabaci&theme=github&utcOffset=3)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husamettinarabaci&theme=github)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=husamettinarabaci&mode=weekly)](https://git.io/streak-stats)
 
 ---
