@@ -6,24 +6,30 @@
 
 - 🔭 I’m currently working on Golang , Golang and <b>Golang</b> all-day.
 - 📫 How to reach me: 
-  - 📫 harabaci88@gmail.com
-  - 📫 husamettin.arabaci@hsmteknoloji.com
+  - 📫 info@husamettinarabaci.com
   
-- 👨‍💻 I am working on:
-  - 📌 Golang , gRPC , Kubernetes , Microservices , Docker , Kafka , Redis , AWS
-  - 📌 C# , Asp.NET , Java , C/C++ , Python , Unity
-  - 📌 JS , Vue.Js , React.Js , Angular.Js
-  - 📌 MySQL , MsSQL , PsSQL , MongoDB..
-  - 📌 Design Patterns , CI/CD
-  - 📌 IOT , Lte , 4G , Wireless , BLE , RF , Hardware Design , LoRA , Stm
+- 👨‍💻 I interested in:
+  - 📌 AWS (EKS, ECS, EC2, Fargate, S3, SNS, CloudFront, Lambda, etc.)
+  - 📌 Programming Languages: GoLang, C#, Python, Java, JavaScript, Node.js
+  - 📌 Containerization: Kubernetes, Docker
+  - 📌 Version Control: Git, CI/CD, GitHub, GitLab, Bitbucket
+  - 📌 Databases: PostgreSQL, MySQL, MsSQL, MongoDB, Redis, Elasticsearch, etc.
+  - 📌 Messaging Systems: Kafka, Redis, RabbitMQ, ActiveMQ, MQTT, Pub-Sub, etc.
+  - 📌 Authentication & Authorization: JWT, OAuth2, SSO, etc.
+  - 📌 Cloud Computing: AWS, Google Cloud (GCloud), Digital Ocean, Azure
+  - 📌 Software Development Methodologies & Tools: Trello, Jira, Agile, Scrum, etc.
+  - 📌 Concurrency, Streaming, Threading, Socket Programming, etc.
+  - 📌 API Development: GraphQL, RESTful APIs, gRPC, API Gateway, SOAP, etc.
+  - 📌 Cloud Computing and Distributed Systems
   
-- ⚡ Stack Share : https://stackshare.io/harabaci88/my-stack
+- ⚡ Stack Share : https://stackshare.io/harabaci88/stack
 
 - ⚡ Organizations:
   - 📌 https://github.com/HsmTeknoloji
   - 📌 https://github.com/Ubn-Jr
   - 📌 https://github.com/Movsec
   - 📌 https://github.com/AfatekDevelopers
+  - 📌 https://github.com/loop-soft
   
 - 💬 if there's anything you need don't hesitate to ask
 
