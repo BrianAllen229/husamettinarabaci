@@ -32,14 +32,3 @@
   - 📌 https://github.com/loop-soft
   
 - 💬 if there's anything you need don't hesitate to ask
-
-<!-- <div align="center"> -->
-### Github stats
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=husamettinarabaci&count_private=true&show_icons=true&theme=default&hide_border=false&locale=en)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husamettinarabaci&count_private=true&theme=github&utcOffset=3)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husamettinarabaci&count_private=true&theme=github)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=husamettinarabaci&mode=weekly)](https://git.io/streak-stats)
-
----
