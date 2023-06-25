@@ -10,7 +10,7 @@
   
 - 👨‍💻 I am interested in:
   - 📌 Gin, Echo, Revel, Fiber, Buffalo, Gorm, Gqlgen, Godoc, Beego, etc.
-  - 📌.NET Core, ASP.NET, EF, Blazor, WPF, WinForms, Xamarin, Unity, etc.
+  - 📌 .NET Core, ASP.NET, EF, Blazor, WPF, WinForms, Xamarin, Unity, etc.
   - 📌 Spring, Hibernate, Apache, JSF, JHipster, Grails, Micronaut, Quarkus, Vaadin, etc.
   - 📌 AWS (EKS, ECS, EC2, Fargate, S3, SNS, CloudFront, Lambda, etc.)
   - 📌 Programming Languages: GoLang, C#, Python, Java, JavaScript, Node.js
