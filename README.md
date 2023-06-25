@@ -8,7 +8,10 @@
 - 📫 How to reach me: 
   - 📫 info@husamettinarabaci.com
   
-- 👨‍💻 I interested in:
+- 👨‍💻 I am interested in:
+  - 📌 Gin, Echo, Revel, Fiber, Buffalo, Gorm, Gqlgen, Godoc, Beego, etc.
+  - 📌.NET Core, ASP.NET, EF, Blazor, WPF, WinForms, Xamarin, Unity, etc.
+  - 📌 Spring, Hibernate, Apache, JSF, JHipster, Grails, Micronaut, Quarkus, Vaadin, etc.
   - 📌 AWS (EKS, ECS, EC2, Fargate, S3, SNS, CloudFront, Lambda, etc.)
   - 📌 Programming Languages: GoLang, C#, Python, Java, JavaScript, Node.js
   - 📌 Containerization: Kubernetes, Docker
@@ -22,7 +25,7 @@
   - 📌 API Development: GraphQL, RESTful APIs, gRPC, API Gateway, SOAP, etc.
   - 📌 Cloud Computing and Distributed Systems
   
-- ⚡ Stack Share : https://stackshare.io/harabaci88/stack
+- ⚡ Stack Share: https://stackshare.io/harabaci88/stack
 
 - ⚡ Organizations:
   - 📌 https://github.com/HsmTeknoloji
