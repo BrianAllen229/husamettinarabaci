@@ -9,6 +9,8 @@
   - 📫 info@husamettinarabaci.com
   
 - 👨‍💻 I am interested in:
+  - 📌 Domain Driven Design, Hexagonal Architecture, Event Driven Design, Event Sourcing
+  - 📌 Clean Code, SOLID, KISS, YAGNI, DRY, Design Patterns
   - 📌 Gin, Echo, Kit, FastHttp, Revel, Fiber, Buffalo, Gorm, Gqlgen, Godoc, Beego, etc.
   - 📌 .NET Core, ASP.NET, EF, Blazor, WPF, WinForms, Xamarin, Unity, etc.
   - 📌 Spring, Hibernate, Apache, JSF, JHipster, Grails, Micronaut, Quarkus, Vaadin, etc.
